@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{nil}
   spec.description   = %q{简单的在class添加回调，比如在service、model中}
-  spec.homepage      = "https://github.com/SuMingXuan"
+  spec.homepage      = "https://github.com/SuMingXuan/simple_method_callback"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
 
